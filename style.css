@@ -1,0 +1,114 @@
+body {
+
+    width: 1000px;
+    height: 1350px;
+    
+}
+
+header {
+     
+    
+    
+    } 
+
+.entete{
+    
+      background-image: url(../cv/image/images.png);
+      text-align: center;
+      
+         
+}
+container{
+    width: 60%;
+    float: right;
+   vertical-align: middle;
+    
+}
+
+.titre{
+    text-transform: capitalize;
+    font-size: 80px;
+    color: orangered;
+    font-family: 'Kaushan Script', cursive;
+     
+}
+
+.sous-titre{
+    text-transform: capitalize;
+    font-size: 40px;
+    color:aqua;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+.titre1{
+
+    text-transform: capitalize;
+    font-size: 30px;
+    color: aqua;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+hr{
+    color: orangered;
+    height: 1px;
+}
+
+
+    
+h1{
+   
+    
+}
+
+p{
+
+    font-size: 15px;
+    
+}
+
+marge{
+
+    width: 30%;
+    float: left;
+    vertical-align: middle;
+    background-color:aqua;
+    margin-top: 6px;
+
+}
+.titre2 {
+
+    text-transform: capitalize;
+    font-size: 25px;
+    color: orangered;
+    font-family: 'Kaushan Script', cursive;
+}
+
+p .mot{
+    font-size: 15px;
+    
+}
+
+ul li {
+
+    font-size: 15px;
+    
+}
+footer{
+    font-weight: bold;
+    width: 30%;
+    float: left;
+    vertical-align: bottom;
+    background-color: aqua;
+}
+.LIENS{
+    
+    font-size: 25px;
+    color: orangered;
+    font-family: 'Kaushan Script', cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
