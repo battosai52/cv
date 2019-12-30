@@ -11,10 +11,16 @@ header {
     
     } 
 
+img{
+    max-width: 100%;
+}
 .entete{
     
-      background-image: url(../cv/image/images.png);
+      background-image: url(../cv/may.png);
       text-align: center;
+      
+      
+    
       
          
 }
